@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+Repository for machine learning
 
